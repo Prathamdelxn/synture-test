@@ -119,9 +119,9 @@ export default function HeroSection() {
       </div>
 
       {/* Mission Statement Section */}
-      <div className="w-full bg-transparent px-4 xs:px-6 sm:px-8 md:px-12 lg:px-20 xl:px-40 py-8 sm:py-12 md:py-16 lg:py-20 font-sans">
+      <div className="w-full bg-transparent px-4 xs:px-6 sm:px-8 md:px-12 lg:px-20 xl:px-40 py-8 sm:py-12 md:py-16 lg:py-20 ">
         <div className="max-w-7xl mx-auto">
-          <p className="text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl leading-tight sm:leading-snug md:leading-normal lg:leading-relaxed text-center font-sans">
+          <p className="text-lg text-[30px] leading-tight sm:leading-snug md:leading-normal lg:leading-relaxed text-center ">
             At Synture, we combine
             <span className="text-fuchsia-500 font-semibold mx-1">strategy</span>,
             <span className="text-blue-500 font-semibold mx-1">creativity</span>, and

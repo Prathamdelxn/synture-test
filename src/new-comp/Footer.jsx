@@ -360,7 +360,7 @@ max-w-6xl mx-auto pt-12 pb-[280px] relative z-10 px-4">
         {/* Animated SVG Wave */}
         <svg
           id="wave"
-          className="absolute bottom-0 left-0 w-full h-[250px] z-0"
+          className="absolute bottom-0 left-0 w-full h-[200px] z-0 w-full"
           style={{ transform: "rotate(0deg)", transition: "0.3s" }}
           viewBox="0 0 2880 430"
           version="1.1"
